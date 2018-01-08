@@ -1,0 +1,8 @@
+com\pupilsky\tutorials\core\configuration\AppConfig.class
+com\pupilsky\tutorials\core\service\UserService.class
+com\pupilsky\tutorials\core\controller\UserController.class
+com\pupilsky\tutorials\core\dao\UserRepositories.class
+com\pupilsky\tutorials\core\entity\EUser.class
+com\pupilsky\tutorials\core\model\User.class
+com\pupilsky\tutorials\core\SampleApplication.class
+com\pupilsky\tutorials\core\service\UserServiceImpl.class
